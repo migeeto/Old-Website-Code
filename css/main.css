@@ -33,6 +33,7 @@ div {
   border-left: 2px solid black;
 }
 #head {
-  height: 65px;
+  height: 70px;
   background-color: LightSteelBlue;
+  border-bottom: 2px solid black;
 }
