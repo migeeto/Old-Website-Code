@@ -7,3 +7,7 @@ p {
   font-size: 18px;
   color: #4A4943;
 }
+img {
+  height: 300px;
+  width: 300px;
+}
