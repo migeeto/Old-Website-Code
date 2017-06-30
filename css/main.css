@@ -30,9 +30,3 @@ div {
   padding: 1px 16px;
   height: 1000px;
 }
-h1 {
-  padding:0px;
-  bottom-border-width: 2px;
-  bottom-border-style: solid;
-  width:100%;
-}
