@@ -15,11 +15,13 @@ p {
 img {
   width: 300px;
   height: 300px;
+  margin: auto;
 }
 #me.jpg {
   width: 300px;
+  height: 300px;
   margin: auto; 
-  border-color: #6495ED;
+  border-color: Crimson;
   border-style: solid;
   border-width: 4px;
   border-radius: 5px;
