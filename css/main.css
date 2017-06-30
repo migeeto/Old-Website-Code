@@ -11,7 +11,7 @@ body > ul {
   height: 100%;
   overflow: auto;
   border-width-right: 2px;
-  border-style-right: outset;
+  border-style-right: solid;
   border-color-right: indigo;
 }
 .nav li a {
