@@ -26,13 +26,11 @@ body > ul {
   background-color: #555;
   color: white;
 }
-.nav div {
-  border:2px solid black;
-}
-div:not(.nav) {
+div {
   margin-left: 25%;
   padding: 1px 16px;
   height: 1000px;
+  border-left: 2px solid black;
 }
 #head {
   height: 65px;
