@@ -6,7 +6,7 @@ body > ul {
   margin: 0;
   padding: 0;
   width: 25%;
-  background-color: #f1f1f1;
+  background-color: Azure;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -19,7 +19,7 @@ body > ul {
   font-family: Verdana, "Times New Roman", Times, serif;
 }
 .nav li a.active {
-  background-color: #4CAF50;
+  background-color: LightSteelBlue;
   color: white;
 }
 .nav li a:hover:not(.active) {
