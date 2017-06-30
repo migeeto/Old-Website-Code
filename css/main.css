@@ -34,6 +34,7 @@ div {
   height: 1000px;
 }
 #head {
+  height: 75px;
   border-style: solid;
   border-weight: 2px;
   border-color: MidnightBlue;
