@@ -26,7 +26,10 @@ body > ul {
   background-color: #555;
   color: white;
 }
-div:not(#nav) {
+.nav div {
+  border:2px solid black;
+}
+div:not(.nav) {
   margin-left: 25%;
   padding: 1px 16px;
   height: 1000px;
