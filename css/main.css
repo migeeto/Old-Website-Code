@@ -33,7 +33,7 @@ div {
   padding: 1px 16px;
   height: 1000px;
 }
-h1 {
+#head {
   border-style: solid;
   border-weight: 2px;
   border-color: MidnightBlue;
