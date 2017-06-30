@@ -37,3 +37,6 @@ div {
   background-color: LightSteelBlue;
   border-bottom: 2px solid black;
 }
+h1 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+}
