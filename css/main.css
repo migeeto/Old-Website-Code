@@ -26,18 +26,10 @@ body > ul {
   color: white;
 }
 div {
+  border-style: solid;
+  border-weight: 2px;
+  border-color: black;
   margin-left: 25%;
   padding: 1px 16px;
   height: 1000px;
-}
-h1 {
-  background-color: LightSteelBlue;
-  margin-top: 0;
-  margin-right:0;
-  margin-bottom:0;
-  padding:0;
-  display: inline;
-  height: 75px;
-  width: 100%;
-  border-weight: 0px;
 }
