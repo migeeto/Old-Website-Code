@@ -10,6 +10,9 @@ body > ul {
   position: fixed;
   height: 100%;
   overflow: auto;
+  border-width-right: 2px;
+  border-style-right: outset;
+  border-color-right: indigo;
 }
 .nav li a {
   display:block;
