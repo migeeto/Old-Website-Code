@@ -1,11 +1,13 @@
 h1 {
   font-family: Verdana, sans-serif;
   color: #576D94;
+  text-align: center;
 }
 p {
   font-family: Garamond, serif;
   font-size: 18px;
   color: #4A4943;
+  text-align: center;
 }
 img {
   height: 300px;
@@ -14,4 +16,5 @@ img {
   border-style: solid;
   border-width: 4px;
   border-radius: 5px;
+  margin: auto;
 }
