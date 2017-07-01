@@ -48,3 +48,6 @@ h1 {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
   font-size: 36 px;
 }
+.end div {
+  height: 700px;
+}
