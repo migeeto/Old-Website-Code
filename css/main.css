@@ -10,6 +10,7 @@ body > ul {
   position: fixed;
   height: 100%;
   overflow: auto;
+  font-size: 18px;
 }
 .nav li a {
   display:block;
@@ -37,6 +38,7 @@ div {
 }
 div:not(#head) {
   font-family: Georgia, serif;
+  font-size: 18px;
 }
 #head {
   height: 69px;
