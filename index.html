@@ -22,6 +22,33 @@
       .header h1{
        font-size: 40px; 
       }
+      
+      /*Style the top Nav bar*/
+      .navbar{
+        overflow: hidden; /*Hides overflow*/
+        background-color: #333; /*Dark background color*/
+      }
+      
+      /*Style the navigation bar links*/
+      .navbar a {
+        float: left; /*Make sure the links stay side by side*/
+        display: block; /*Change the display to block for responsive reasons*/
+        color: white; /*white text color*/
+        text-align: center; /*centers the text*/
+        padding: 14px 20px; /*adds some padding*/
+        text-decoration: none; /*Removes underline*/
+      }
+      
+      /*Right aligned link*/
+      .navbar a.right{
+        float: right; /*floats a link to the right*/
+      }
+      
+      /*Change color on mouse hover over*/
+      .navbar a:hover{
+        background-color: #ddd; /* Grey background color*/
+        color: black; /*Black text*/
+      }
     </style>
   </head>
   <body>
