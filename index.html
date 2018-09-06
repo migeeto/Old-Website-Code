@@ -49,6 +49,27 @@
         background-color: #ddd; /* Grey background color*/
         color: black; /*Black text*/
       }
+      
+      /*Column container*/
+      .row{
+        display: flex;
+        flex-wrap: wrap;
+      }
+      
+      /*Create two unequal columns that sit next to each other*/
+      /*Sidebar/left column*/
+      .side {
+        flex: 30%; /*set the width of the sidebar*/
+        background-color: #f1f1f1; /*grey background color*/
+        padding: 20px; /*some padding*/
+      }
+      
+      /*Main column*/
+      .main {
+        flex: 70%; /*Set width of main content*/
+        background-color: white; /*White background color*/
+        padding: 20px; /*Some padding*/
+      }
     </style>
   </head>
   <body>
@@ -62,6 +83,10 @@
       <a href="#">Link</a>
       <a href="#">Link</a>
       <a href="#" class="right">Link</a>
+    </div>
+    <div class="row">
+      <div class="side">...</div>
+      <div class="main">...</div>
     </div>
     
   </body>
